@@ -3,4 +3,4 @@ streamlit==1.29.0
 tensorflow==2.15.0
 joblib
 scikit-learn
-
+xgboost
